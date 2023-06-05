@@ -20,15 +20,16 @@ Die fantastische 3D-Objektfabrik: Lerne auf lustige Weise, wie man einen 3D-Scho
 
 **Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!**  
 
-__Der Titel des Projekts bezieht sich auf das klassische Buch / den Film: *"[Charlie und die Schokoladenfabrik](https://www.imdb.com/title/tt0367594/)*__
+__Der Titel des Projekts bezieht sich auf das klassische Buch / den Film "Charlie und die Schokoladenfabrik__
 
 !?[Charlie und die Schokoladenfabrik](https://youtu.be/8P98m59kUME)
 
 ## Konzept / Methodologie des Projekts
 
-    {{1-2 |>}}
+    {{0-1 |>}}
 Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
 
+    {{0-1}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif)
 
     {{2-3 |>}}

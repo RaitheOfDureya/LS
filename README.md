@@ -15,33 +15,29 @@ comment:  Die fantastische 3D-Objektfabrik:
 
 # Die fantastische 3D-Objektfabrik
 
-Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!  
+    --{{0}}--
+Die fantastische 3D-Objektfabrik: Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!  
 
-Der Titel des Projekts bezieht sich auf das klassische Buch / den Film: *"[Charlie und die Schokoladenfabrik](https://www.imdb.com/title/tt0367594/)*
+**Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!**  
+
+__Der Titel des Projekts bezieht sich auf das klassische Buch / den Film: *"[Charlie und die Schokoladenfabrik](https://www.imdb.com/title/tt0367594/)*__
 
 !?[Charlie und die Schokoladenfabrik](https://youtu.be/8P98m59kUME)
 
 ## Konzept / Methodologie des Projekts
 
-    --{{0}}--
-Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
-
+    {{1-2 |>}}
 Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
 
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif)
 
-    --{{1}}--
+    {{2-3 |>}}
 Das Lernangebot ist auf ca. zwei Stunden angelegt und findet vor Ort in der Stadtbücherei Haltern am See statt, ist aber größtenteils digital angelegt, d.h. für die Wissensvermittlung und das Lernen kommen Tablets und digitale Tools wie Apps zum Einsatz.
 
-Das Lernangebot ist auf ca. zwei Stunden angelegt und findet vor Ort in der Stadtbücherei Haltern am See statt, ist aber größtenteils digital angelegt, d.h. für die Wissensvermittlung und das Lernen kommen Tablets und digitale Tools wie Apps zum Einsatz.
-
-     --{{2 Deutsch Female}}--
+    {{3-4 |>}}
 Das Lernangebot besteht aus verschiedenen Lerneinheiten (LE), die grob jeweils aus zwei Teilbereichen bestehen. In der jeweils ersten Phase der LE werden Erklärvideos bzw. analoge Demonstrationen gezeigt, die die wichtigsten Funktionen des 3D-Schoko-Druckers vorstellen und Beispiele für Objekte zeigen, die damit erstellt werden können. Die Videos und Demonstrationen zeigen Schritt für Schritt, wie der Drucker verwendet wird, vom Vorbereiten der Druckdatei bis zum Abschluss des Drucks.
 
-    {{2}}
-Das Lernangebot besteht aus verschiedenen Lerneinheiten (LE), die grob jeweils aus zwei Teilbereichen bestehen. In der jeweils ersten Phase der LE werden Erklärvideos bzw. analoge Demonstrationen gezeigt, die die wichtigsten Funktionen des 3D-Schoko-Druckers vorstellen und Beispiele für Objekte zeigen, die damit erstellt werden können. Die Videos und Demonstrationen zeigen Schritt für Schritt, wie der Drucker verwendet wird, vom Vorbereiten der Druckdatei bis zum Abschluss des Drucks.
-
-      {{|>}}
+      {{4 |>}}
 In der jeweils zweiten Phase der LE wird das zuvor vermittelte Wissen durch Übungen gefestigt. Dafür kommen einerseits interaktiven Tools wie Actionbound zum Einsatz, um mit Gamification das Lernen der Verwendung des Druckers unterhaltsamer zu gestalten und gleichzeitig zu bewerten, welche der Jugendlichen in der Lage sind, das Gerät allein zu bedienen. Andererseits festigen praktische Übungen das zuvor gelernte. Ziel ist es, die Jugendlichen zu ermutigen, ihre 3D-Druckfähigkeiten zu üben und zu verbessern, indem eine praxisnahe und herausfordernde Lernerfahrung geboten wird.
 
 ### Extensions

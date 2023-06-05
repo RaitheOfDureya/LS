@@ -58,7 +58,7 @@ But you can also include other features such as spoken text.
 Insert any kind of audio file:
 
        {{1}}
-?[audio](https://bigsoundbank.com/UPLOAD/mp3/1068.mp3)
+?[audio](https://github.com/3D-Objektfabrik/Ressourcen/raw/main/sounds/1.mp3)
 
 
      --{{2}}--
@@ -68,10 +68,13 @@ Even videos or change the language completely.
 !?[video](https://www.youtube.com/watch?v=bICfKRyKTwE)
 
 
-      --{{3 Russian Female}}--
-Первоначально создан в 2004 году Джоном Грубером (англ. John Gruber) и Аароном
-Шварцем. Многие идеи языка были позаимствованы из существующих соглашений по
-разметке текста в электронных письмах...
+    --{{3 Deutsch Male}}--
+Dies sind meine Hauptbestandteile...
+
+
+    {{3}}
+Type "voice" to see a list of all available languages.
+
 
 
     {{3}}

@@ -45,13 +45,22 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 
 ### Methodologie des Projekts
 
-|          |          |
+    {{0}}
+|          |          | 
 | -------- |----------|
-| Bibliothekstyp | **Öffentliche Bibliothek**: Stadtbücherei Haltern am See. |
-| Zielgruppe | **Kinder und Jugendliche** im Alter von 8 bis 14 Jahren (empfohlen). |
-| Interne Voraussetzungen | Mit den TN gegebene Faktoren: <br> **Vorkenntnisse**: <br> Werden für den Kurs nicht benötigt. <br>  **Motivation und Interesse**: <br> werden als hoch eingeschätzt, da der Kurs auf freiwilliger Basis und mit vorheriger Anmeldung angeboten wird. |
-| Externe Voraussetzungen | **Personelle Ressourcen**: <br> maximal 1 Mitarbeiter:in der Bibliothek, die das Projekt unterstützen und begleiten kann. <br> **Räumliche Voraussetzungen**: <br> das Lernangebot muss in den Räumlichkeiten der Bibliothek stattfinden, da der 3D-Schokodrucker nur dort vor Ort genutzt werden kann. Ein separater Raum für die Durchführung des Angebots steht, wenn benötigt, zur Verfügung. |
-| Lernziele (Taxonomie!) | **Richtlinien/Lernfelder**: <br> Die TN sollen Kenntnisse im Umgang mit digitaler Technik und digitalen Medien erlangen, speziell den Umgang mit 3D-Software und 3D-Druck. <br><br> **Groblernziele**: <br> Die TN können ein 3D-Druck-Objekt mittels einer geeigneten Software (erstellen,) für den 3D-Druck aufbereiten und den 3D-(Schoko)-Drucker bedienen. <br><br> **Feinlernziele**: <br> *Taxonomiestufe* – **Wissen**:  <br> - Die TN sollen die Funktionsweise eines 3D-Druckers *aufzählen* sowie seine Verwendungsmöglichkeiten nennen können. <br><br> *Taxonomiestufe* – **Anwenden**:  <br> - Die TN sollen in der Lage sein, das 3D-Modellierungsprogramm Tinkercad zu *benutzen* und die Vorbereitung eines einfachen Objekts für den Druck *durchzuführen*. <br><br> *Taxonomiestufe* – **Analysieren**:  <br> - Die TN sollen in der Lage sein, einfache Probleme während des 3D-Druckprozesses zu *analysieren* und zu *lösen*. <br><br>  *Taxonomiestufe* – **Beurteilen**:  <br> - Die TN sollen in der Lage sein, die 3D-Druckmaschine selbstständig zu prüfen und sicherzustellen, dass sie korrekt funktioniert (Beispiel: die Fähigkeit, ein einfaches Objekt auf dem 3D-Drucker zu drucken und zu überprüfen, ob es korrekt gedruckt wurde). <br><br> |
+| Bibliothekstyp | **Öffentliche Bibliothek**: Stadtbücherei Haltern am See. | 
+| Zielgruppe | **Kinder und Jugendliche** im Alter von 8 bis 14 Jahren (empfohlen). | 
+
+    {{1}}
+|          |          | 
+| -------- |----------|
+| Interne Voraussetzungen | Mit den TN gegebene Faktoren: <br> **Vorkenntnisse**: <br> Werden für den Kurs nicht benötigt. <br>  **Motivation und Interesse**: <br> werden als hoch eingeschätzt, da der Kurs auf freiwilliger Basis und mit vorheriger Anmeldung angeboten wird. | 
+| Externe Voraussetzungen | **Personelle Ressourcen**: <br> maximal 1 Mitarbeiter:in der Bibliothek, die das Projekt unterstützen und begleiten kann. <br> **Räumliche Voraussetzungen**: <br> das Lernangebot muss in den Räumlichkeiten der Bibliothek stattfinden, da der 3D-Schokodrucker nur dort vor Ort genutzt werden kann. Ein separater Raum für die Durchführung des Angebots steht, wenn benötigt, zur Verfügung. | 
+
+    {{2}}
+|          |          | 
+| -------- |----------|
+| Lernziele (Taxonomie!) | **Richtlinien/Lernfelder**: <br> Die TN sollen Kenntnisse im Umgang mit digitaler Technik und digitalen Medien erlangen, speziell den Umgang mit 3D-Software und 3D-Druck. <br><br> **Groblernziele**: <br> Die TN können ein 3D-Druck-Objekt mittels einer geeigneten Software (erstellen,) für den 3D-Druck aufbereiten und den 3D-(Schoko)-Drucker bedienen. <br><br> **Feinlernziele**: <br> *Taxonomiestufe* – **Wissen**:  <br> - Die TN sollen die Funktionsweise eines 3D-Druckers *aufzählen* sowie seine Verwendungsmöglichkeiten nennen können. <br><br> *Taxonomiestufe* – **Anwenden**:  <br> - Die TN sollen in der Lage sein, das 3D-Modellierungsprogramm Tinkercad zu *benutzen* und die Vorbereitung eines einfachen Objekts für den Druck *durchzuführen*. <br><br> *Taxonomiestufe* – **Analysieren**:  <br> - Die TN sollen in der Lage sein, einfache Probleme während des 3D-Druckprozesses zu *analysieren* und zu *lösen*. <br><br>  *Taxonomiestufe* – **Beurteilen**:  <br> - Die TN sollen in der Lage sein, die 3D-Druckmaschine selbstständig zu prüfen und sicherzustellen, dass sie korrekt funktioniert (Beispiel: die Fähigkeit, ein einfaches Objekt auf dem 3D-Drucker zu drucken und zu überprüfen, ob es korrekt gedruckt wurde). <br><br> | 
 
 ### Styling
 

@@ -13,16 +13,13 @@ comment:  Die fantastische 3D-Objektfabrik:
           lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
 -->
 
-# Course Main Title
+# Die fantastische 3D-Objektfabrik
 
-This is your **3D-Objektfabrik** initialization stub.
+Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!  
 
-Please see the [Docs](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md)
-to find out what is possible in [LiaScript](https://LiaScript.github.io).
+!?[Charlie und die Schokoladenfabrik]([https://www.youtube.com/watch?v=AERiykLvcoQ](https://youtu.be/8P98m59kUME) "Der Titel des Projekts bezieht sich auf das klassische Buch / den Film: *"[Charlie und die Schokoladenfabrik](https://www.imdb.com/title/tt0367594/)*")
 
-If you want to use instant help in your Atom IDE, please type **lia** to see all available shortcuts.
-
-## Markdown
+## Konzept / Methodologie des Projekts
 
 You can use common [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) syntax to create your course, such as:
 

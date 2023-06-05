@@ -23,12 +23,12 @@ Der Titel des Projekts bezieht sich auf das klassische Buch / den Film: *"[Charl
 
 ## Konzept / Methodologie des Projekts
 
-Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
-
     --{{0}}--
 Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
 
-![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif))
+Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
+
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif)
 
     --{{1}}--
 Das Lernangebot ist auf ca. zwei Stunden angelegt und findet vor Ort in der Stadtbücherei Haltern am See statt, ist aber größtenteils digital angelegt, d.h. für die Wissensvermittlung und das Lernen kommen Tablets und digitale Tools wie Apps zum Einsatz.

@@ -8,7 +8,7 @@ narrator: Deutsch Male
 comment:  Die fantastische 3D-Objektfabrik:
           lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
 
-link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 
 -->
 
@@ -49,6 +49,26 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 The whole text-block should appear in purple color and with a wobbling effect.
 Which is a **bad** example, please use it with caution ...
 ~~ only this is red ;-) ~~ <!-- class = "animated infinite bounce" style = "color: red;" -->
+
+### Multiple inline animation
+
+<!--
+class="animate__animated animate__backInUp"
+style="background:#CCC; padding:3rem; min-height: 40vh; border-radius: 3rem"
+-->
+    {{1}}
+*******************************************
+
+This block contains {2}{multiple} inline animations.
+With some
+{2-3}{styled}<!-- class="animate__animated animate__flash" -->
+elements as well.
+
+<!-- class="animate__animated animate__backInDown" -->
+                  {{3}}
+!?[Charlie und die Schokoladenfabrik](https://youtu.be/8P98m59kUME)
+
+*******************************************
 
 ## Quizzes
 

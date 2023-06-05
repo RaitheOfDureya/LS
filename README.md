@@ -45,7 +45,7 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 
 ### Styling
 
-<!-- color: purple" -->
+<!-- style = "color: purple" -->
 The whole text-block should appear in purple color and
 ~~ only this is red ;-) ~~ <!-- class = "animated infinite bounce" style = "color: red;" -->
 

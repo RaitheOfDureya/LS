@@ -5,9 +5,9 @@ email:    your@mail.org
 
 version:  0.0.1
 
-language: en
+language: de
 
-narrator: DE German Female
+narrator: Deutsch Male
 
 comment:  Die fantastische 3D-Objektfabrik:
           lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!

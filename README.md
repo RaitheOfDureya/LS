@@ -15,7 +15,7 @@ comment:  Die fantastische 3D-Objektfabrik:
 
 # Die fantastische 3D-Objektfabrik
 
-Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!  
+**Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!**
 
 Der Titel des Projekts bezieht sich auf das klassische Buch / den Film: *"[Charlie und die Schokoladenfabrik](https://www.imdb.com/title/tt0367594/)*"  
 

@@ -45,9 +45,8 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 
 ### Styling
 
-<!-- class = "animated rollIn" style = "animation-delay: 2s; color: purple" -->
-The whole text-block should appear in purple color and with a wobbling effect.
-Which is a **bad** example, please use it with caution ...
+<!-- color: purple" -->
+The whole text-block should appear in purple color and
 ~~ only this is red ;-) ~~ <!-- class = "animated infinite bounce" style = "color: red;" -->
 
 ### Multiple inline animation

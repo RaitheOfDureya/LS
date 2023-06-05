@@ -15,22 +15,25 @@ comment:  Die fantastische 3D-Objektfabrik:
 
 # Die fantastische 3D-Objektfabrik
 
-    --{{0}}--
+    --{{0 Deutsch Female}}--
 Die fantastische 3D-Objektfabrik: Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!  
 
 **Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!**  
 
-__Der Titel des Projekts bezieht sich auf das klassische Buch / den Film "Charlie und die Schokoladenfabrik__
+> __Der Titel des Projekts bezieht sich auf das klassische Buch / den Film "Charlie und die Schokoladenfabrik__
 
 !?[Charlie und die Schokoladenfabrik](https://youtu.be/8P98m59kUME)
 
 ## Konzept / Methodologie des Projekts
 
-    {{0-1 |>}}
-Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
-
     {{0-1}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif)
+
+    {{0-1}}
+?[audio](https://github.com/3D-Objektfabrik/Ressourcen/raw/main/sounds/1.mp3)
+
+    {{1-2 |>}}
+Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
 
     {{2-3 |>}}
 Das Lernangebot ist auf ca. zwei Stunden angelegt und findet vor Ort in der Stadtbücherei Haltern am See statt, ist aber größtenteils digital angelegt, d.h. für die Wissensvermittlung und das Lernen kommen Tablets und digitale Tools wie Apps zum Einsatz.
@@ -40,30 +43,6 @@ Das Lernangebot besteht aus verschiedenen Lerneinheiten (LE), die grob jeweils a
 
       {{4 |>}}
 In der jeweils zweiten Phase der LE wird das zuvor vermittelte Wissen durch Übungen gefestigt. Dafür kommen einerseits interaktiven Tools wie Actionbound zum Einsatz, um mit Gamification das Lernen der Verwendung des Druckers unterhaltsamer zu gestalten und gleichzeitig zu bewerten, welche der Jugendlichen in der Lage sind, das Gerät allein zu bedienen. Andererseits festigen praktische Übungen das zuvor gelernte. Ziel ist es, die Jugendlichen zu ermutigen, ihre 3D-Druckfähigkeiten zu üben und zu verbessern, indem eine praxisnahe und herausfordernde Lernerfahrung geboten wird.
-
-### Extensions
-
-    --{{0}}--
-But you can also include other features such as spoken text.
-
-    --{{1}}--
-Insert any kind of audio file:
-
-     {{1}}
-?[audio](https://github.com/3D-Objektfabrik/Ressourcen/raw/main/sounds/1.mp3)
-
-    --{{2}}--
-Even videos or change the language completely.
-
-     {{2-3}}
-!?[video](https://youtu.be/8P98m59kUME)
-
-    --{{3 Deutsch Female}}--
-Dies sind meine Hauptbestandteile...
-
-    {{3}}
-Type "voice" to see a list of all available languages.
-
 
 ### Styling
 

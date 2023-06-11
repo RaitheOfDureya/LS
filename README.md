@@ -14,4 +14,4 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 
 ## Other
 
-??[scratch](https://scratch.mit.edu/projects/859966397/)
+!?[Wie kann Web 3.0 Lehre retten](https://www.youtube.com/watch?v=y6tBVNe6mWw "Wie kann Web 3.0 Lehre retten? - Andre Dietrich & Sebastian Zug - University:Future Festival 2023.")
